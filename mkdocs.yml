@@ -1,0 +1,12 @@
+site_name: LCP Help
+site_url: https://help.lcp.ai/lcphelp
+theme:
+  name: material
+plugins:
+  - search
+  - mkdocs-nav-weight:
+      section_renamed: false
+      index_weight: -10
+      warning: true
+      reverse: false
+      headless_included: false
