@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Lemongrass Cloud Platform (LCP) documentation portal
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the Lemongrass Cloud Platform (LCP) Documentation Portal. Use the LCP Documentation Portal to access all LCP documents.
 
-## Commands
+## Intended audience
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The LCP Documentation Portal is for end users of LCP.
 
-## Project layout
+## Prerequisites
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Before using the LCP Documentation Portal, you should have completed the customer onboarding process with your LCP representative. For details, contact your LCP representative.
